@@ -1,0 +1,34 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# general
+apidocs
+.dropbox.attr
+*.kdev4
+build
+*~
+*.bak
+*.orig
+*.rej
+doxygen.log
+Doxyfile
+*.kdevelop
+*.kdevelop.filelist
+*.kdevelop.pcs
+*.kdevses
+.*kate-swp
+build/
+mem.log.*
+massif.*
+callgrind.*
+perf.data*
+
+# from kdiff3
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+
